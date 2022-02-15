@@ -4,12 +4,16 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
+	* Variables 
+	// es una forma de almacenar un valor que se usara mas tarde, funciona como una caja que contiene datos. Las variables pueden ser: tipo var, let o contanstes.
 	* Strings
+	// Son bloque de texto simpre se definaran entre comillas " " dobles o comillas sencillas' ' se conoce tambien como cadena.
 	* Funciones (argumentos, `return`)
+	// Una función es un conjunto de instruciones que realiza una tarea o calcula un valor. La funcion debe tomar alguna entrada y devolver una salida.
 	* Declaraciones `if`
+	//Ejecuta una sentencia si una condición definida es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
 	* Valores booleanos (`true`, `false`)
-
+	// // Que tiene dos opciones, activar o desactivar, 0 o 1, verdadero o falso, los valores posibles booleanos son true y false.
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
 
